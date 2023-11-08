@@ -3,9 +3,9 @@ pragma solidity  ^0.6;
 contract Student_Management{
 
     Struct Student{
-        Int stud_id;
-        String stud_Name;
-        String department;
+        int stud_id;
+        string stud_Name;
+        string department;
     }
 
     Student[] Students;
