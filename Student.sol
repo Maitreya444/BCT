@@ -1,6 +1,6 @@
 pragma solidity  ^0.6;
 
-Contract Student_Management{
+contract Student_Management{
 
     Struct Student{
         Int stud_id;
